@@ -48,7 +48,7 @@ Busco evoluir através de projetos práticos, estudos contínuos e aplicação d
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/heitor-torres-d’albuquerque-0940b13b0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heitor-torres-dalbuquerque-0940b13b0)
 
 ---
 
